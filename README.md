@@ -50,3 +50,7 @@ Higher value = faster charging, more heat.
 
 - Telegram: @iamnorta
 - Channel: t.me/iamnorta
+
+## 📥 Download
+
+Get the latest release from the [Releases](https://github.com/USERNAME/NortaFastCharge/releases/latest) page.
