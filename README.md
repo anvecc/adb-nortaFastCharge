@@ -53,4 +53,4 @@ Higher value = faster charging, more heat.
 
 ## 📥 Download
 
-Get the latest release from the [Releases](https://github.com/USERNAME/NortaFastCharge/releases/latest) page.
+Get the latest release from the [Releases](https://github.com/USERNAME/NortaFastCharge/releases/) page.
