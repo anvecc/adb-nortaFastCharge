@@ -13,7 +13,6 @@ Fast charging optimization module for Poco X3 Pro (vayu).
 - Force enable fast charge mode
 - Remove charging current restrictions
 - Optimize input current limit
-- Loop every 5 seconds to maintain values
 - Configurable charge level via `config.sh`
 
 ## 📦 Installation
